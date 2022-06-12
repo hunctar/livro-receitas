@@ -2,7 +2,7 @@
 
 **Negrito**
 
-_itálico_
+_italico_
 
 ### ingredientes
 
