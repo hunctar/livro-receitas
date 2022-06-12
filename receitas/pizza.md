@@ -15,3 +15,9 @@ _italico_
 - quatro
 - cinco
 - seis
+
+### tempo de preparo
+
+- sete
+- oito
+- nove
